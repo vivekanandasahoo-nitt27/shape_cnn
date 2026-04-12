@@ -92,4 +92,4 @@ history = model.fit(
 # Save final model
 model.save("final_shape_model.h5")
 
-print("✅ Training Complete")
+print(" Training Complete")
